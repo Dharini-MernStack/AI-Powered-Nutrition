@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+# AI-Powered-Nutrition
+A web application that uses AI to analyze meal images and provide instant calorie counts and detailed nutritional insights. Built with Next.js, Node.js, Express, and MongoDB — designed to make healthy eating easier and more accessible. 🍽️🤖
+>>>>>>> 9c46a95b561a0d520f00c7cfeb0c838474277fd9
